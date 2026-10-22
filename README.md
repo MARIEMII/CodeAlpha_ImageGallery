@@ -31,10 +31,6 @@ CodeAlpha_ImageGallery/
 1. Put your images in the `images` folder.
 2. Edit the `photos` list at the top of `script.js`, setting each photo's `file`, `title` and `cat` (category).
 
-## Live Demo
-
-https://MARIEMII.github.io/CodeAlpha_ImageGallery/
-
 ## Author
 
 MARIEMII'
