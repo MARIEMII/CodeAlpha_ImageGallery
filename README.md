@@ -33,8 +33,8 @@ CodeAlpha_ImageGallery/
 
 ## Live Demo
 
-https://YOUR-USERNAME.github.io/CodeAlpha_ImageGallery/
+https://MARIEMII.github.io/CodeAlpha_ImageGallery/
 
 ## Author
 
-Dhamiex'
+MARIEMII'
